@@ -142,4 +142,4 @@ outreach history to a public fork.
 
 ## License
 
-MIT. See [LICENSE](LICENSE). Replace the copyright holder with your own name.
+MIT. See [LICENSE](LICENSE).
