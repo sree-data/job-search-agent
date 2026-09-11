@@ -1,0 +1,8 @@
+[project]
+name = "outreach-engine"
+version = "0.1.0"
+description = "Decision core for a job-search cold outreach product: job-fit ranking, contact prioritization, message quality gate, sequence engine"
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.26", "scikit-learn>=1.4"]
+[project.optional-dependencies]
+dev = ["pytest"]
